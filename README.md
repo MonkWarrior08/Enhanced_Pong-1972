@@ -3,15 +3,12 @@ This is a simple Pong-style table tennis game implemented in Python using the Py
 Prerequisites
 Before you can run the game, you need to have the following installed on your system:
 
-Python 3.x
-Pygame
-NumPy
+```bash
+# Clone the repository
+git clone https://github.com/your-username/pong-game.git
+cd pong-game
 
-Installation
-
-'''git clone https://github.com/your-username/pong-game.git
-cd pong-game'''
-
-Create a virtual environment (optional but recommended):
+# Create a virtual environment (optional but recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows, use venv\Scripts\activate
+
