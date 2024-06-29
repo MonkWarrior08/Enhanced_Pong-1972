@@ -9,8 +9,8 @@ NumPy
 
 Installation
 
-git clone https://github.com/your-username/pong-game.git
-cd pong-game
+'''git clone https://github.com/your-username/pong-game.git
+cd pong-game'''
 
 Create a virtual environment (optional but recommended):
 python -m venv venv
