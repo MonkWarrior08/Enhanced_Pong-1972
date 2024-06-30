@@ -18,7 +18,7 @@ This is an enhanced version of the classic Pong game, implemented in Python usin
 
 4. Clone this repository:
    ```
-   git clone https://github.com/yourusername/enhanced-pong.git
+   git clone https://github.com/MonkWarrior08/Bong-1972-.git
    ```
 
 5. Navigate to the game directory:
@@ -28,7 +28,7 @@ This is an enhanced version of the classic Pong game, implemented in Python usin
 
 6. Run the game:
    ```
-   python pong7.py
+   python pong.py
    ```
 
 ## How to Play
@@ -64,7 +64,6 @@ This enhanced version of Pong includes several features that set it apart from t
 
 6. **Winner Celebration**:
    - Colorful fireworks display when a player wins.
-   - "Sexy winner" message displayed for the victor.
 
 7. **Paddle Effects**:
    - Losing paddle shakes and turns red when a point is scored against it.
