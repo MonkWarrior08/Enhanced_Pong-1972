@@ -6,23 +6,18 @@ This is an enhanced version of the classic Pong game, implemented in Python usin
 
 1. Ensure you have Python 3.7+ installed on your system.
 
-2. Install Pygame by running:
-   ```
-   pip install pygame
-   ```
-
-3. Install the prerequesitory by running:
-   ```
-   pip install numpy
-   ```
-
-4. Clone this repository:
+2. Clone this repository:
    ```
    git clone https://github.com/MonkWarrior08/Enhanced_Pong-1972.git
    cd Enhanced_Pong-1972
    ```
 
-6. Run the game:
+3. Install the required dependencies::
+   ```
+   pip install numpy pygame
+   ```
+
+4. Run the game:
    ```
    python pong.py
    ```
@@ -52,7 +47,6 @@ This enhanced version of Pong includes several features that set it apart from t
    - Animated star field background for a space-like atmosphere.
 
 4. **Improved Gameplay**:
-   - Games are played to 5 points instead of the traditional 11.
    - Ball speed increases slightly with each hit, adding challenge.
 
 5. **Sound Effects**:
@@ -66,12 +60,6 @@ This enhanced version of Pong includes several features that set it apart from t
 
 8. **Responsive Controls**:
    - Smooth paddle movement with trailing effect.
-
-This enhanced Pong game combines classic gameplay with modern graphics and physics, creating an exciting and visually appealing experience for players.
-
-## Contributing
-
-Feel free to fork this repository and submit pull requests with your improvements or fixes. Issues and feature requests are also welcome!
 
 ## License
 
