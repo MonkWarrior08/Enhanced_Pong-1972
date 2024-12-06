@@ -11,19 +11,15 @@ This is an enhanced version of the classic Pong game, implemented in Python usin
    pip install pygame
    ```
 
-3. Install NumPy by running:
+3. Install the prerequesitory by running:
    ```
    pip install numpy
    ```
 
 4. Clone this repository:
    ```
-   git clone https://github.com/MonkWarrior08/Bong-1972-.git
-   ```
-
-5. Navigate to the game directory:
-   ```
-   cd enhanced-pong
+   git clone https://github.com/MonkWarrior08/Enhanced_Pong-1972.git
+   cd Enhanced_Pong-1972
    ```
 
 6. Run the game:
